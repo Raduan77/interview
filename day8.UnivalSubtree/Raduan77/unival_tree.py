@@ -6,16 +6,16 @@ class Node:
 
 
 def is_unival(root):
-    if root == None:
+    if root is None:
         return (0, True)
     left_count, left_is_unival = is_unival(root.left)
     right_count, right_is_unival = is_unival(root.right)
     is_unival_node = True
     if not (left_is_unival or right_is_unival):
         is_unival_node = False
-    if root.left != None and root.left.value != root.value:
+    if root.left is not None and root.left.value != root.value:
         is_unival_node = False
-    if root.right != None and root.right.value != root.value:
+    if root.right is not None and root.right.value != root.value:
         is_unival_node = False
     if is_unival_node:
         return (left_count+right_count+1, True)
