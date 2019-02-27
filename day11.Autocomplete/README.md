@@ -1,4 +1,5 @@
-This problem was asked by:
+## This problem was asked by:
+<br>
 ![Twitter](http://pluspng.com/img-png/twitter-logo-png-open-2000.png)
 
 Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix.

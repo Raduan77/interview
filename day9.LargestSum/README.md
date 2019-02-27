@@ -1,4 +1,5 @@
-This problem was asked by:
+## This problem was asked by:
+<br>
 ![Airbnb](http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c513.png)
 
 Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be __0__ or __negative__.
