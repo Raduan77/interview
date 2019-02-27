@@ -1,4 +1,5 @@
-This problem was asked by:
+## This problem was asked by:
+<br>
 ![Uber](https://pngimg.com/uploads/uber/uber_PNG24.png)
 
 Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
