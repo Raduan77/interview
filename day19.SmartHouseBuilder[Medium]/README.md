@@ -1,4 +1,4 @@
-###### This problem was asked by Facebook.
+###### This problem was asked by
 <br>
 
 ![Facebook](http://pluspng.com/img-png/facebook-logo-png-1722.png)
